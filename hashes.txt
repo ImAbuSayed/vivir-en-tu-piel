@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir en tu piel
+
+This log tracks the cryptographic history and versioning for the song **Vivir en tu piel** (vivir-en-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:27:57.680850 | `v1` | `0b557ca467337dbf877d2988b136183063e0d07331450c5ad11d6ee8ae90402b` | `f132f2c086d45bae6fa1131e5634b04df2292ea9f11e7b224b17b439ed02653b` | `2026-06-24_vivir-en-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Vivir en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-piel/) |
+| **Get License** | [Get License For Vivir en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0b557ca467337dbf877d2988b136183063e0d07331450c5ad11d6ee8ae90402b` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
